@@ -1,0 +1,13 @@
+
+a , a:hover
+{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+li
+{
+  cursor: pointer;
+
+}
+
